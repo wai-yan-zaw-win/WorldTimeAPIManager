@@ -7,7 +7,7 @@ This package contains a simple manager to get server time for Unity. It uses [Un
 It is pretty simple actually. 
 Just drag and drop WorldTimeAPIManager Prefab from HarioGames/Examples/Prefabs/ .
 
-![Prefab Image](https://i.imgur.com/xWMjFQ4)
+![Prefab Image](https://i.imgur.com/xWMjFQ4.png)
 
 You may need to call namespace as follow to call WorldTimeAPIManager.
 ```c#
