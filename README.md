@@ -1,6 +1,6 @@
 # WorldTimeAPIManager
 
-This package contains a simple manager to get server time for Unity. It uses [UnityWebRequest](https://docs.unity3d.com/ScriptReference/Networking.UnityWebRequest.html) to get JSON data from (WorldTimeAPI)[http://worldtimeapi.org/] and then convert that JSON into (DateTime)[https://docs.microsoft.com/en-us/dotnet/api/system.datetime].
+This package contains a simple manager to get server time for Unity. It uses [UnityWebRequest](https://docs.unity3d.com/ScriptReference/Networking.UnityWebRequest.html) to get JSON data from [WorldTimeAPI](http://worldtimeapi.org/) and then convert that JSON into [DateTime](https://docs.microsoft.com/en-us/dotnet/api/system.datetime).
 
 # How to use
 
